@@ -13,9 +13,9 @@ title                    : "Yuhao Liu / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Yuhao Liu"
 description              : &description ""
-url                      : https://pigbrainlyh.github.io/liuyuhao21.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://liuyuhao21.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Pigbrainlyh/liuyuhao21.github.io"
+repository               : "liuyuhao21/liuyuhao21.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
