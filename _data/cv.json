@@ -1,19 +1,19 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Yuhao Liu",
+    "email": "liuyuhao21@mails.tsinghua.edu.cn",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://liuyuhao21.github.io",
+    "summary": "Currently a PhD student at IIIS, tsinghua university.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Beijing",
+      "countryCode": "",
       "region": ""
     },
     "profiles": [
-      {
+      /*{
         "network": "Google Scholar",
         "username": "",
         "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
@@ -27,35 +27,35 @@
         "network": "GitHub",
         "username": "academicpages",
         "url": "https://github.com/academicpages"
-      }
+      }*/
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Tsinghua University",
+      "area": "Ph.D in IIIS",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "2025",
+      "endDate": "",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Tsinghua University",
+      "area": "Bachelor's Degree in IIIS",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "startDate": "2021",
+      "endDate": "2025",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
+      "institution": "Laiwu No.1 Middle School",
       "area": "B.S. in GitHub",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "startDate": "2018",
+      "endDate": "2021",
       "gpa": null,
       "courses": []
     }
@@ -65,7 +65,7 @@
   "interests": [],
   "references": [],
   "publications": [
-    {
+    /*{
       "name": "Paper Title Number 1",
       "publisher": "Journal 1",
       "releaseDate": "2009-10-01",
@@ -92,10 +92,10 @@
       "releaseDate": "2024-02-17",
       "website": "http://academicpages.github.io/files/paper3.pdf",
       "summary": "This paper is about fixing template issue #693."
-    }
+    }*/
   ],
   "presentations": [
-    {
+    /*{
       "name": "Talk 1 on Relevant Topic in Your Field",
       "event": "UC San Francisco, Department of Testing",
       "date": "2012-03-01",
@@ -122,10 +122,10 @@
       "date": "2014-03-01",
       "location": "Los Angeles, CA, USA",
       "description": ""
-    }
+    }*/
   ],
   "teaching": [
-    {
+    /*{
       "course": "Teaching experience 1",
       "institution": "University 1, Department",
       "date": "2014-01-01",
@@ -138,15 +138,15 @@
       "date": "2015-01-01",
       "role": "Workshop",
       "description": ""
-    }
+    }*/
   ],
   "portfolio": [
-    {
+    /*{
       "name": "Portfolio item number 1",
       "category": "portfolio",
       "date": "",
       "url": "",
       "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
+    }*/
   ]
 }
