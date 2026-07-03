@@ -14,4 +14,11 @@ I am a Ph.D student at the [Institute for Interdisciplinary Information Sciences
 
 Research Interest
 ======
-Recently, I am focusing on the theories of diffusion models. But I am glad to participate in other researches in modern machine learning.
+My research focuses on theories of diffusion-based and flow-based models, whose purpose is to to provide converge rates for the generation process. Dispite the traditional DDPM model, I am also interested in several variants such as stochastic interpolants or Riemannian diffusion models.
+
+I am also broadly interested in discrete diffusion models, schrodinger bridges and bandit algorithms, so please feel free to contact me if you want to discuss.
+
+Awards
+======
+- NOI2019 silver medal
+- NOI2020 golden medal
