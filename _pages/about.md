@@ -24,3 +24,18 @@ Awards
 ======
 - NOI2019 silver medal
 - NOI2020 golden medal
+
+Publications
+======
+- [Finite-Time Analysis of Discrete-Time Stochastic Interpolants](https://openreview.net/forum?id=V9d9YUXg6s)
+  
+  **Yuhao Liu**, Yu Chen, Rui Hu, Longbo Huang
+  
+  *Forty-second International Conference on Machine Learning, 2025*
+
+- [Finite-Time Convergence Analysis of ODE-based Generative Models for Stochastic Interpolants](https://openreview.net/forum?id=VCStVrq0BZ)
+  
+  **Yuhao Liu**, Yu Chen, Rui Hu, Longbo Huang
+  
+  *The Fourteenth International Conference on Learning Representations, 2026*
+
